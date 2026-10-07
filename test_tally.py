@@ -22,4 +22,4 @@ def test_total_pence_sums_lines():
 
 
 def test_format_pence_pads_pence():
-    assert tally.format_pence(1005) == "10.50"
+    assert tally.format_pence(1005) == "10.05"
